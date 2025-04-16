@@ -2,9 +2,33 @@
 Custom made 7-segment display using NeoPixel LEDs on breadboard with a 3D printed diffuser, driven by Arduino UNO
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/DD9FJr9zQ0U**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/428377537624066049**
+
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- NeoPixel LEDs (8mm): https://s.click.aliexpress.com/e/_oCLASur
+- Half Breadboard: https://s.click.aliexpress.com/e/_om1zHCT
+- Starting wokwi project: https://wokwi.com/projects/399315041436179457
+- Breadboard wires: https://s.click.aliexpress.com/e/_Dkbngin
+- Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
+- NeoPixels documentation: https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels
+- Translucent acrylic sheets: https://s.click.aliexpress.com/e/_DBCYJQR
+- Arduino UNO breadboard holder: https://github.com/LaskaKit/LaskaKit-Printed-Parts/tree/main/Arduino%20Uno%20Breadboard%20400%20Holder
+
+
+Related videos with segmented displays:
+- NeoPixel strip segment display: https://youtu.be/_pNuaVKABN4
+- Transparent Edgelit Display: https://youtu.be/Cg9MDF1VE2g
+- Ynvisible Segmented Displays: https://youtu.be/lxeH1ilL2T0
+- Segment Eink Display: https://youtu.be/Rf-E-7fFop0
+- Arduino OLED Segmented Clock - https://youtu.be/OqqPvb8FEHs
+- Fusion and 3D printing: https://youtu.be/HcP48uCBzDQ
+- NeoPixels: https://youtu.be/1NI-I1Lpdqo
+- Segmented Displays: https://youtu.be/jz01j1TpM84
+
 
 ![THUMB_breadboard_7segment_display_B](https://github.com/user-attachments/assets/ba127199-a304-48cc-a1bc-1afa33950620)
 
